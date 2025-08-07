@@ -3,7 +3,7 @@
 
 ## 💻 Você pode acessar o projeto aqui
 
- [Link do site](https://nnathalia.github.io/Tabela-de-pontos/)
+ [Link do site](https://nnathalia.github.io/Tabela-de-pontos)
 
 ## Descrição
 Projeto desenvolvido durante a quinta aula da 7ª edição da Imersão Dev Alura. O objetivo é construir uma tabela de classificação para acompanhar o desempenho de jogadores, com vitórias, empates, derrotas e pontos, utilizando JavaScript para atualizar dinamicamente os dados.
